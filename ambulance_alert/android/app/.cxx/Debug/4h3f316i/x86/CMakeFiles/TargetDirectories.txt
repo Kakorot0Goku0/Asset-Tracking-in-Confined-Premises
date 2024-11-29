@@ -1,0 +1,6 @@
+/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/.cxx/Debug/4h3f316i/x86/CMakeFiles/appmodules.dir
+/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/.cxx/Debug/4h3f316i/x86/CMakeFiles/edit_cache.dir
+/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/.cxx/Debug/4h3f316i/x86/CMakeFiles/rebuild_cache.dir
+/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/.cxx/Debug/4h3f316i/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir
+/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/.cxx/Debug/4h3f316i/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/.cxx/Debug/4h3f316i/x86/RNVectorIconsSpec_autolinked_build/CMakeFiles/rebuild_cache.dir

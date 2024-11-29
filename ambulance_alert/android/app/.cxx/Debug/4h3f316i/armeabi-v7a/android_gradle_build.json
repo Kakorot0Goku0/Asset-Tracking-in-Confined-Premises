@@ -1,0 +1,48 @@
+{
+  "buildFiles": [
+    "/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/naveenkamalla/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/.cxx/Debug/4h3f316i/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/naveenkamalla/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/.cxx/Debug/4h3f316i/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "appmodules",
+      "output": "/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/build/intermediates/cxx/Debug/4h3f316i/obj/armeabi-v7a/libappmodules.so",
+      "runtimeFiles": [
+        "/home/naveenkamalla/.gradle/caches/8.10.2/transforms/8b60b4f75564ac53567672df7a1c9a73/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.armeabi-v7a/libfbjni.so",
+        "/home/naveenkamalla/.gradle/caches/8.10.2/transforms/e7a87e28456e3cd3dea6e54dbe4d1714/transformed/react-android-0.76.3-debug/prefab/modules/jsi/libs/android.armeabi-v7a/libjsi.so",
+        "/home/naveenkamalla/.gradle/caches/8.10.2/transforms/e7a87e28456e3cd3dea6e54dbe4d1714/transformed/react-android-0.76.3-debug/prefab/modules/reactnative/libs/android.armeabi-v7a/libreactnative.so"
+      ]
+    },
+    "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "react_codegen_RNVectorIconsSpec"
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/naveenkamalla/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/naveenkamalla/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

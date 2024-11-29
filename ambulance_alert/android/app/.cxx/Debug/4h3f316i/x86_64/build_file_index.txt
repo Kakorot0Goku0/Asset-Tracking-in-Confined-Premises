@@ -1,0 +1,2 @@
+/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt
+/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt

@@ -1,0 +1,18 @@
+# ninja log v5
+1	15	0	/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/.cxx/Debug/4h3f316i/arm64-v8a/CMakeFiles/cmake.verify_globs	d739e9d59a72e278
+16	7647	1732859641596382077	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o	89f4d7ec1ae91c61
+9	7771	1732859641721383174	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/EventEmitters.cpp.o	2b009f6768ef89f9
+0	9920	1732859643838401760	CMakeFiles/appmodules.dir/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	4536e0ecd45f580
+11	10188	1732859644119404227	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp.o	215ee7ef1e09f4dc
+3	10389	1732859644351406264	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o	2c27c97bee437e7e
+5	10428	1732859644357406317	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ComponentDescriptors.cpp.o	b45d81933e29cd3e
+10	10536	1732859644491407493	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/RNVectorIconsSpecJSI-generated.cpp.o	32da2a20ccd6a097
+10	10780	1732859644747409741	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o	82e9d7bc424ec0cc
+1	10973	1732859644927411321	CMakeFiles/appmodules.dir/OnLoad.cpp.o	2710eeb8587fd5c
+10973	11118	1732859645103412866	/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/build/intermediates/cxx/Debug/4h3f316i/obj/arm64-v8a/libappmodules.so	4ab58b427489d409
+4	12	0	/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/.cxx/Debug/4h3f316i/arm64-v8a/CMakeFiles/cmake.verify_globs	d739e9d59a72e278
+1	12	0	/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/.cxx/Debug/4h3f316i/arm64-v8a/CMakeFiles/cmake.verify_globs	d739e9d59a72e278
+1	8	0	/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/.cxx/Debug/4h3f316i/arm64-v8a/CMakeFiles/cmake.verify_globs	d739e9d59a72e278
+1	14	0	/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/.cxx/Debug/4h3f316i/arm64-v8a/CMakeFiles/cmake.verify_globs	d739e9d59a72e278
+1	6	0	/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/.cxx/Debug/4h3f316i/arm64-v8a/CMakeFiles/cmake.verify_globs	d739e9d59a72e278
+1	6	0	/home/naveenkamalla/IIT/Sem1/code/AwesomeProject/android/app/.cxx/Debug/4h3f316i/arm64-v8a/CMakeFiles/cmake.verify_globs	d739e9d59a72e278

@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/naveenkamalla/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/android/app/.cxx/Debug/2s2u4c69/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/naveenkamalla/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/android/app/.cxx/Debug/2s2u4c69/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "x86",
+      "output": "/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/android/app/build/intermediates/cxx/Debug/2s2u4c69/obj/x86/libappmodules.so",
+      "runtimeFiles": [
+        "/home/naveenkamalla/.gradle/caches/8.10.2/transforms/8b60b4f75564ac53567672df7a1c9a73/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/home/naveenkamalla/.gradle/caches/8.10.2/transforms/e7a87e28456e3cd3dea6e54dbe4d1714/transformed/react-android-0.76.3-debug/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/home/naveenkamalla/.gradle/caches/8.10.2/transforms/e7a87e28456e3cd3dea6e54dbe4d1714/transformed/react-android-0.76.3-debug/prefab/modules/reactnative/libs/android.x86/libreactnative.so"
+      ]
+    }
+  }
+}

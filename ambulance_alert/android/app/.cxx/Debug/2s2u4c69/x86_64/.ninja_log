@@ -1,0 +1,18 @@
+# ninja log v5
+4423	4484	1732818536288751115	/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/android/app/build/intermediates/cxx/Debug/2s2u4c69/obj/x86_64/libappmodules.so	a46a804d022dfa3d
+9	3957	1732818535743767190	CMakeFiles/appmodules.dir/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	252e62de92af4fd7
+5	50	1732848177887064288	build.ninja	a0518ab29b629109
+10	4423	1732818536207753504	CMakeFiles/appmodules.dir/OnLoad.cpp.o	8350aee5ecc6b523
+0	4	0	/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/android/app/.cxx/Debug/2s2u4c69/x86_64/CMakeFiles/cmake.verify_globs	c4f4d9bf1361379d
+4	42	1732848177887064288	build.ninja	a0518ab29b629109
+0	4	0	/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/android/app/.cxx/Debug/2s2u4c69/x86_64/CMakeFiles/cmake.verify_globs	c4f4d9bf1361379d
+10	4371	1732848182250935044	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o	93c80597e2107c68
+10	5135	1732848183004912714	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp.o	8e8a585714c8eae8
+5	5150	1732848182980913425	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/EventEmitters.cpp.o	b86aa6ea15a5725f
+5	5869	1732848183747890709	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o	f11d384be27de532
+4	6032	1732848183903886089	CMakeFiles/appmodules.dir/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	b4988f4bb731bcb8
+6	6052	1732848183927885379	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/RNVectorIconsSpecJSI-generated.cpp.o	d8380e3ae6b6ea28
+5	6356	1732848184236876227	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ComponentDescriptors.cpp.o	b015aecedb5215c0
+5	6399	1732848184275875072	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o	959bc5fd3e7d2e51
+6	6715	1732848184596865566	CMakeFiles/appmodules.dir/OnLoad.cpp.o	f894ac515fa8a21b
+6715	6781	1732848184674863256	/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/android/app/build/intermediates/cxx/Debug/2s2u4c69/obj/x86_64/libappmodules.so	4d35a8ae0db5ae7f

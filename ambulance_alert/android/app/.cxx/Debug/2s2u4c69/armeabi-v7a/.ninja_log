@@ -1,0 +1,18 @@
+# ninja log v5
+0	8	0	/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/android/app/.cxx/Debug/2s2u4c69/armeabi-v7a/CMakeFiles/cmake.verify_globs	38ff208afa1add1a
+10	5012	1732818524442100524	CMakeFiles/appmodules.dir/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	c67541c8137348f8
+9	73	1732848162818510570	build.ninja	225251ecf028b309
+5569	5637	1732818525082081650	/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/android/app/build/intermediates/cxx/Debug/2s2u4c69/obj/armeabi-v7a/libappmodules.so	89a064f88266b581
+10	5569	1732818524989084393	CMakeFiles/appmodules.dir/OnLoad.cpp.o	142aa750abcd7bec
+8	69	1732848162818510570	build.ninja	225251ecf028b309
+1	9	0	/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/android/app/.cxx/Debug/2s2u4c69/armeabi-v7a/CMakeFiles/cmake.verify_globs	38ff208afa1add1a
+23	5324	1732848168114353724	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o	62fbbf45c13dc768
+15	5950	1732848168750334889	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/EventEmitters.cpp.o	11cc414bd0149c6c
+22	6106	1732848168919329884	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp.o	f8e7c76e0be9a99b
+19	6300	1732848169109324257	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/RNVectorIconsSpecJSI-generated.cpp.o	903dd34bf0772ac0
+14	6837	1732848169647308323	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ComponentDescriptors.cpp.o	b2699018db9c7d51
+15	6863	1732848169680307346	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o	4d6184009b7dadff
+12	6964	1732848169784304266	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o	f9cfc32aa53fd769
+11	6991	1732848169810303496	CMakeFiles/appmodules.dir/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	8c8f9740880ff7b1
+13	7185	1732848170001297839	CMakeFiles/appmodules.dir/OnLoad.cpp.o	537b15492902d525
+7185	7250	1732848170083295411	/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/android/app/build/intermediates/cxx/Debug/2s2u4c69/obj/armeabi-v7a/libappmodules.so	4e15f1a8280cdf6d

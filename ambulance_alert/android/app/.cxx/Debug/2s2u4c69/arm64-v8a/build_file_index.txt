@@ -1,0 +1,1 @@
+/home/naveenkamalla/IIT/Sem1/code/development/AwesomeProject/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt
