@@ -74,6 +74,75 @@ complie code
 code to run the server code 
 
     ./beacon_tracker1
+# ESP32 Setup Guide
 
+## Setting up ESP32 with Arduino IDE
+
+1. **Install Arduino IDE**
+   - Download and install the [Arduino IDE](https://www.arduino.cc/en/software) for your operating system.
+
+2. **Install ESP32 Library**
+   - Open Arduino IDE.
+   - Go to **File > Preferences**.
+   - In the **Additional Board Manager URLs** field, add:
+     ```
+     https://dl.espressif.com/dl/package_esp32_index.json
+     ```
+   - Go to **Tools > Board > Board Manager**.
+   - Search for "ESP32" and click **Install**.
+
+3. **Select ESP32 Development Module**
+   - Go to **Tools > Board > ESP32 Arduino > ESP32 Dev Module**.
+
+4. **Set COM Port Permissions**
+   - Update the COM port permission using the following command:
+     ```bash
+     sudo chmod a+rw /dev/ttyUSB0
+     ```
+
+5. **Include Necessary Libraries**
+   - Ensure the following libraries are installed and included in your code:
+     - **Beacon**
+     - **WiFi**
+     - **PubSubClient**
+
+6. **Open Huge Partition**
+   - Enable the HUGE partition to upload larger code files onto the ESP32.
+
+---
+
+## Field Hardware: NRF51822 Beacons
+- NRF51822 beacons were used on the field to send BLE signals.
+
+---
+
+## ESP32 Code Features
+- **BLE**: Used for detecting beacons.
+- **WiFi**: Connects the ESP32 to a router.
+- **MQTT**: Publishes beacon data to the server.
+
+---
+
+## Changes to Code Before Uploading
+1. **Update Client ID**:
+   - Ensure the `#CLIENT` identifier is unique for each node connected to the Raspberry Pi server.
+
+2. **Topic Configuration**:
+   - Use the same `#TOPIC` across all nodes to publish beacon data.
+
+3. **Define Floor Number**:
+   - Use `#FLOOR` to specify the floor number where the node is deployed.
+
+4. **Router IP**:
+   - Update the router IP address in the code.
+
+5. **MQTT Server IP**:
+   - Update the IP address of the MQTT server.
+
+---
+
+## Final Step: Upload Code to ESP32
+- Burn the updated code onto the ESP32 board using Arduino IDE.
+- After burning, the ESP32 is ready for deployment.
 
 
